@@ -16,4 +16,4 @@ for i in out:
     x= i[0]
     #print i
     print i[0],i[1],i[2],i[3]
-    x=i[0]
+   

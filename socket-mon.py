@@ -9,7 +9,7 @@ out = []
 print ("pid,laddr,raddr,status")
 for i in k:
     if (i[3] and i[4]):
-        out.append([i[6],i[3],i[4]s,i[5]])
+        out.append([i[6],i[3],i[4],i[5]])
 out.sort()
 #print ', '.join(['"'+i+'"' for i in out])
 for i in out:
